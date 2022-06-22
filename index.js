@@ -43,4 +43,20 @@
 //git remote add origin https://github.com/EH-llOrJ/220621.git 이건
 // https://github.com/EH-llOrJ/220621.git(자신의 깃 저장소 주소)를 추가해준다.
 
+//cd "들어갈 폴더" : 경로 변경하는데
+//cd .. : 경로가 한 단계 위로 올라간다.
+
+//git 저장소가 초기화된 경로인지 확인 잘하고 사용
+//경로는 git init을 한 경로
+
 //git push -u origin main 깃 저장소에 첫 커밋을 푸쉬
+
+//소스제어 탭을 선택시 git 그래프에 변경사항 중 파일 이름 옆에
+
+// U : 저장소에 없는 새로운 파일
+
+// M : 저장소에 파일은 있고 내용이 변경됐을 때
+
+// D : 저장소에 있는 파일이 제거됐을 때
+
+//1. git설정
