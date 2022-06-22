@@ -60,3 +60,19 @@
 // D : 저장소에 있는 파일이 제거됐을 때
 
 //1. git설정
+//사용자 설정
+//깃을 사용할 때 사용하는 깃의 사용자 세팅
+//git config --global user.name "닉네임"
+//git config --global user.email "이메일"
+
+//설정 정보 조회
+//git config --global --list
+//git config --list 도 되네 뭐지?
+//git config [--global] 설정_이름 설정값 이라서
+
+//git 저장소 초기화 저장소 생성
+//git의 저장소로 지정할 경로로 이동해서
+//git init
+
+//git 저장소 복제 (파일 내려받기)
+//git clone (url)
